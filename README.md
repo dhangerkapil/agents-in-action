@@ -6,7 +6,7 @@
 
 **AI Agent Implementations & Sample Use Cases**
 
-*Master Microsoft Agent Framework through hands-on agent implementations and workflows*
+*Master Agents through hands-on agent implementations and workflows*
 
 ---
 
